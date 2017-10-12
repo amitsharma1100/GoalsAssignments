@@ -1,0 +1,3 @@
+List the difference between First() and FirstOrDefault() operator.
+
+   The First() method returns the first element of a collection, or the first    element that satisfies the specified condition using lambda expression or Func    delegate. If a given collection is empty or does not include any element that satisfied the condition then it will throw InvalidOperation exception.
